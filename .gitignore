@@ -1,0 +1,5 @@
+.nextflow/
+__pycache__/
+*.pyc
+work
+.venv
